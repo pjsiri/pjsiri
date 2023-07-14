@@ -2,8 +2,9 @@
 <h3 align="center">A Computer Science and Software Development Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhtaHg4OWJnZmo0cnlsZmVkNWUyajhocDU5NHE2c200dGNkbHQ1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iM80c81yrXJvCxS3s7/giphy.gif">
-- 🎓 I'm studying at **Auckland University of Technology (2nd Year)**
 
+- 🎓 I'm studying at **Auckland University of Technology (2nd Year)**
+  
 - 🌱 I’m currently learning **Algorithmic analysis and Operating Systems**
 
 - 🔭 I’m currently working on [AI Chess Game](https://github.com/pjsiri/AI-Chess-Game)
