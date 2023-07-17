@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prom Jack Sirisukha (PJ)</h1>
 <h3 align="center">A Computer Science and Software Development Student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhtaHg4OWJnZmo0cnlsZmVkNWUyajhocDU5NHE2c200dGNkbHQ1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iM80c81yrXJvCxS3s7/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
 
 - 🎓 I'm studying at **Auckland University of Technology (2nd Year)**
   
