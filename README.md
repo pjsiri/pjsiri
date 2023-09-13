@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Algorithmic analysis and Operating Systems**
 
-- 🔭 I’m currently working on [AI Chess Game](https://github.com/pjsiri/AI-Chess-Game)
+- 🔭 I’m currently working on [Portfolio App for Stocks/Crypto](https://github.com/ErickLao123/2023-S2-51-AIVestor)
 
 - 👨‍💻 My portfolio website is available at [pjsirisukha.com](https://pjsirisukha.com)
 
