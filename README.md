@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
 
-- 🎓 I'm studying at **Auckland University of Technology (2nd Year)**
+- 🎓 I'm studying at **Auckland University of Technology (3rd Year)**
   
 - 🌱 I’m currently learning **Algorithmic analysis and Operating Systems**
 
