@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Prom Jack Sirisukha (PJ)</h1>
-<h3 align="center">A Computer Science and Software Development Student</h3>
+<h3 align="center">A Graduate Software Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
 
-- 🎓 I'm studying at **Auckland University of Technology (3rd Year)**
+- 🎓 I've studied at **Auckland University of Technology**
   
-- 🌱 I’m currently learning **Algorithmic analysis and Operating Systems**
+- 🌱 I’m currently learning **.NET Development**
 
-- 🔭 I’m currently working on [Portfolio App for Stocks/Crypto](https://github.com/ErickLao123/2023-S2-51-AIVestor)
+- 🔭 I’ve worked on [Portfolio App for Stocks/Crypto](https://github.com/ErickLao123/2023-S2-51-AIVestor)
 
 - 👨‍💻 My portfolio website is available at [pjsirisukha.com](https://pjsirisukha.com)
 
