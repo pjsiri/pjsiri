@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **.NET Development**
 
-- 🔭 I’ve worked on [Portfolio App for Stocks/Crypto](https://github.com/ErickLao123/2023-S2-51-AIVestor)
+- 🔭 My favourite project I've worked on is a [AI Chess Game](https://github.com/pjsiri/ai-chess-game)
 
 - 👨‍💻 My portfolio website is available at [pjsirisukha.com](https://pjsirisukha.com)
 
